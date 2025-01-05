@@ -6,6 +6,7 @@ module.exports = defineConfig({
     setupNodeEvents() {
       // implementa eventos si es necesario
     },
+    video:false,
     baseUrl: 'http://localhost:5000', // Ajusta esto según tu proyecto
   },
 })
